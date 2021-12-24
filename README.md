@@ -5,15 +5,18 @@ Project ini dibuat berdasarkan permasalahan yang ada di semua orang dimana terka
 
 ### Overview output
 - Hammer Curls Prediction
+Up movement
+![Alt text](https://miro.medium.com/max/2576/1*N1v0o1751c05IDAj6b329w.png)
 
-
-![Alt text](https://miro.medium.com/max/1200/1*53RRPpToJLii54PgOKtqXw.gif)
+Down movement
+![Alt text](https://miro.medium.com/max/2580/1*pBcQ8CJcYii_1WefvCV_FQ.png)
 
 - Bicep Curls Prediction
+Up movement
+![Alt text](https://miro.medium.com/max/3780/1*fnSDQNo0vEXxHkIICPK-hg.png)
 
-
-![Alt text](https://miro.medium.com/max/1200/1*eTt-pKf43MofrMewFqzqxA.gif)
-
+Down movement
+![Alt text](https://miro.medium.com/max/3772/1*1wx5IDxYIGw2063bK-84DA.png)
 
 #### Sumber referensi code
 - https://colab.research.google.com/drive/1l9RWcdnDVZ98iByXMfUsmtOaiqO-0SpW#scrollTo=049bdf3a
