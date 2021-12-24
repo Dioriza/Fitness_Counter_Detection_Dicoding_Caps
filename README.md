@@ -5,9 +5,13 @@ Project ini dibuat berdasarkan permasalahan yang ada di semua orang dimana terka
 
 ### Overview output
 - Hammer Curls Prediction
+
+
 ![Alt text](https://blogger.googleusercontent.com/img/a/AVvXsEgbZwH5kk-OYShDb3mZ2fYspxURC-tGJaoWzx2WF55DKB6kI08HNtNY7vi0P6H51qmpOZN2YIXN7yC7FyjXG1S6WjGn4WFqF1pZ-RaYW26PKyMXwQEHUrawA_bq6S0LdKci_f51cfmByRdbcu2HaMdM2Ezc9B8_OiesxjLzmj8LN_sFv8CH4d7WOq7hTg=w652-h407)
 
 - Bicep Curls Prediction
+
+
 ![Alt text](https://blogger.googleusercontent.com/img/a/AVvXsEgfOilKf95_CqazuBanksZRxH2JfpPgh4Zc1I-3SnIY8LXjuqVyqZvSnhYe0NmIQzbx6gKUgmLne3UuTeH-iUESdXeiBEL-3xCUr8VJ_i4RJzbg0Mgz9p9YA8q2aOOBSniApvnec1ERqEq2xffiGzvYYvOR_uNXS9UXK-nm7c2Qy8WeVncaRQp8HGLuAw=w666-h416)
 
 
